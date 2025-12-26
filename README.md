@@ -1,26 +1,53 @@
-# Olá, me chamo Pedro Baradel ! 
-## Bem vindo ao meu perfil GitHub 👋
+# Olá, eu sou o Pedro Baradel! 👋
 
-- 🔭 Atualmente trabalhando como Analista de Dados na Coca-Cola Femsa.
-- 🌱 Atualmente estou aprendendo Python para Data Science.
-- 👯 Estou procurando colaborar em projetos de Data Science, Machine Learning e Data Engineer.
-- 🤔 Estou procurando ajuda em aprimorar meus conhecimentos através de projetos.
-- 📫 Entre em contato comigo pedro.baradel2@gmail.com
+### Analista de Dados | Business Intelligence | Python & SQL
 
-## Ferramentas e Tecnologias
+Atualmente, atuo como **Analista de Dados na Coca-Cola FEMSA**, onde transformo dados complexos em soluções estratégicas. Meu foco é construir pontes entre a tecnologia e as áreas de negócio (Comercial, Marketing e Distribuição), garantindo que cada insight gere valor real e eficiência operacional.
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="31"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="35"/>
+---
 
-<div>
-<a href="https://github.com/PedroBaradel">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBaradel&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBaradel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+## 🚀 Sobre mim
+
+- 📊 **Impacto no Negócio:** Experiência sólida no desenvolvimento de dashboards e pipelines de dados integrando **SAP, BW e SharePoint**.
+- 🛠️ **O que eu faço:** Automação de processos, tratamento de dados com SQL/Python e criação de relatórios estratégicos para suporte à tomada de decisão.
+- ⚙️ **Foco Técnico:** Especializando em **Python para Data Science** e arquitetura de dados eficiente.
+- 🤝 **Colaboração:** Aberto a projetos de **Machine Learning, Engenharia de Dados** e desafios que envolvam automação inteligente.
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+**Dados & Analytics:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+**Sistemas & Integração:**
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+</p>
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/PedroBaradel">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBaradel&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBaradel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
 </div>
 
-## Contatos:
+---
 
-<div>
-<a href="https://instagram.com/pedrobaradel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:pedro.baradel2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-baradel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## 📫 Vamos nos conectar?
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-baradel" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:pedro.baradel2
