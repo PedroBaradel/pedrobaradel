@@ -31,19 +31,6 @@ Atualmente, atuo como **Analista de Dados na Coca-Cola FEMSA**, onde transformo 
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
 </p>
 
----
-
-## 📈 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/PedroBaradel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBaradel&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroBaradel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
----
-
 ## 📫 Vamos nos conectar?
 
 <div align="left">
