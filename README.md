@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Baradel! 👋
 
-### Analista de Dados | Business Intelligence | Python & SQL
+### Analista de Dados SR | Business Intelligence | Python & SQL
 
 Atualmente, atuo como **Analista de Dados na Coca-Cola FEMSA**, onde transformo dados complexos em soluções estratégicas. Meu foco é construir pontes entre a tecnologia e as áreas de negócio (Comercial, Marketing e Distribuição), garantindo que cada insight gere valor real e eficiência operacional.
 
